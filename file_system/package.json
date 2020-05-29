@@ -1,11 +1,10 @@
 {
   "name": "file_system",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "",
   "main": "updateVersion.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm version minor && node updateVersion.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC"
